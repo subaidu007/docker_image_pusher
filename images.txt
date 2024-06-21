@@ -1,1 +1,2 @@
-alpine
+busybox
+flannel/flannel:v0.24.0
