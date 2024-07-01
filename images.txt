@@ -1,1 +1,1 @@
-docker.io/bitnami/redis:7.2.5-debian-12-r0
+jimmidyson/configmap-reload:v0.5.0
