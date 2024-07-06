@@ -1,2 +1,1 @@
-zabbix/zabbix-web-nginx-mysql:6.0-ubuntu-latest
-zabbix/zabbix-agent:6.0-ubuntu-latest
+docker.io/library/mysql:5.7.43
