@@ -1,4 +1,1 @@
-alpine:latest
-ubuntu:16.04
-ubuntu:20.04
-nginx:1.16
+redis:6.2.6-alpine
