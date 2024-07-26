@@ -1,3 +1,5 @@
-mysql:5.7
-nginx:1.21
-busybox:1.28
+alpine:3.19.1
+nginx:1.16
+nginx:1.20
+ubuntu:20.04
+ubuntu:16.04
