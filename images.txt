@@ -1,2 +1,1 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-quay.io/external_storage/nfs-client-provisioner:v4.0.0
+kubesphere/kubectl:v1.22.0
