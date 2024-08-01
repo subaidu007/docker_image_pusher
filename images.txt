@@ -1,1 +1,1 @@
-quay.io/external_storage/nfs-client-provisioner:v4.0.0
+image: registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
