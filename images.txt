@@ -1,1 +1,1 @@
-kubesphere/openpitrix-jobs:v3.3.2
+osixia/openldap:1.3.0
