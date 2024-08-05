@@ -1,1 +1,2 @@
-nginx:1.24
+minio/minio:RELEASE.2019-08-07T01-59-21Z
+mysql:8.0
