@@ -1,1 +1,1 @@
-kubesphere/kubectl:v1.22.0
+nginx:1.24
