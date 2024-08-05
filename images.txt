@@ -1,2 +1,1 @@
-minio/minio:RELEASE.2019-08-07T01-59-21Z
-mysql:8.0
+registry.qhcic.com/library/mc:RELEASE.2019-08-07T23-14-43Z
