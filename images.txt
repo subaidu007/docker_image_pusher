@@ -1,1 +1,1 @@
-opensearchproject/opensearch:2.6.0
+kubesphere/fluentbit-operator:v0.14.0
