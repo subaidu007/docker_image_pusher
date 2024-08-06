@@ -1,1 +1,1 @@
-kubesphere/fluent-bit:v1.9.4
+kubesphere/kube-events-operator:v0.6.0
