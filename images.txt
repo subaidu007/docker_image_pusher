@@ -1,1 +1,1 @@
-osixia/openldap:1.3.0
+kubesphere/devops-tools:ks-v3.4.1
