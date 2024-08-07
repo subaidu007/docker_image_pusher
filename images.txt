@@ -1,1 +1,1 @@
-kubesphere/kube-events-operator:v0.6.0
+kubesphere/kube-auditing-operator:v0.2.0
