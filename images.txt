@@ -1,1 +1,2 @@
-kubesphere/kube-auditing-operator:v0.2.0
+nginx-ingress-controller:v1.8.0
+kube-webhook-certgen:v20230407
