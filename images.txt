@@ -1,7 +1,1 @@
-docker.io/grafana/grafana:11.0.0
-docker.io/jaegertracing/all-in-one:1.58
-quay.io/kiali/kiali
-quay.io/kiali/kiali:v1.87
-docker.io/grafana/loki:3.0.0
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.73.2
-prom/prometheus:v2.52.0
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
