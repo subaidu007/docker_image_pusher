@@ -1,1 +1,1 @@
-perl:5.34.0
+registry.k8s.io/ingress-nginx/controller:v1.11.3
