@@ -1,1 +1,1 @@
-openeuler
+rockylinux
