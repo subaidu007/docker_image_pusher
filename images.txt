@@ -1,2 +1,2 @@
-redis:7.0.12-alpine
-redis:7.0.12
+alpine:latest
+alpine:3.18
