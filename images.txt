@@ -1,1 +1,1 @@
-goharbor/nginx-photon:v2.12.0
+goharbor/harbor-portal:v2.12.0
