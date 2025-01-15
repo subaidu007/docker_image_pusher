@@ -1,1 +1,1 @@
-prom/node-exporter:v0.16.0
+kube-state-metrics:2.11.0
