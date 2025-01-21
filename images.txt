@@ -1,1 +1,1 @@
-prom/alertmanager:v0.15.3
+busybox:1.28
