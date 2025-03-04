@@ -1,1 +1,2 @@
-busybox:1.28
+docker.io/istio/pilot:1.23.0
+docker.io/istio/proxyv2:1.23.0
