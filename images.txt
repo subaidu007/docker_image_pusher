@@ -1,2 +1,1 @@
-docker.io/istio/pilot:1.23.0
-docker.io/istio/proxyv2:1.23.0
+quay.io/metallb/speaker:v0.14.9
